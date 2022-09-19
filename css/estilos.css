@@ -39,7 +39,6 @@ header .subtitulo{
     color: #fff;
     font-weight: 300;
     margin-bottom: 32px;
-    -webkit-text-stroke:2px rgb(24,16,16);
 }
 
 header .boton{
