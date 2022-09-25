@@ -467,6 +467,20 @@ footer.second p, .second a {
         height: 200px;
         margin-bottom: 50px;
     }
+
+    .icon-text-text{
+        margin-left: 40px;
+    }
+
+    .social{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .social a {
+        padding: 5px;
+        width: 2px;
+    }
 }
 
 @media screen and (max-width:380px) {
@@ -491,5 +505,19 @@ footer.second p, .second a {
     }
     .subtitulo-patrocinadores {
         font-size: 20px;
+    }
+
+    .icon-text-text{
+        margin-left: 40px;
+    }
+
+    .social{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .social a {
+        padding: 5px;
+        width: 2px;
     }
 }
