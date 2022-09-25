@@ -9,10 +9,14 @@ body{
     font-size: 16px;
 }
 
+a{
+    text-decoration: none;
+}
+
 header{
     width: 100%;
     height: 720px;
-    background-image: url(/img/logos/fondo_one.jpg);
+    background-image: url(../img/logos/fondo_one.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -202,7 +206,7 @@ header .boton{
 .fondo{
     height: 900px;
     position: relative;
-    background-image: url(/img/pics/fondo_two.jpg);
+    background-image: url(../img/pics/fondo_two.jpg);
     overflow: hidden;
     background-attachment: fixed;
     background-position: center;
