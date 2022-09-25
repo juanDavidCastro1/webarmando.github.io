@@ -472,6 +472,10 @@ footer.second p, .second a {
         margin-bottom: 50px;
     }
 
+    .encima > a{
+        color: #2c3e50;
+    }
+
     .icon-text-text{
         margin-left: 40px;
     }
@@ -509,6 +513,19 @@ footer.second p, .second a {
     }
     .subtitulo-patrocinadores {
         font-size: 20px;
+    }
+
+    .encima > h2 > a{
+        font-size: 20px;
+    }
+
+    .clientes{
+        text-align: center;
+    }
+
+    .cliente > img{
+        width: 230px;
+        border: 1px solid red;
     }
 
     .icon-text-text{
