@@ -476,6 +476,14 @@ footer.second p, .second a {
         color: #2c3e50;
     }
 
+    .clientes{
+        text-align: center;
+    }
+
+    .cliente > img{
+        width: 230px;
+    }
+
     .icon-text-text{
         margin-left: 40px;
     }
@@ -525,7 +533,6 @@ footer.second p, .second a {
 
     .cliente > img{
         width: 230px;
-        border: 1px solid red;
     }
 
     .icon-text-text{
